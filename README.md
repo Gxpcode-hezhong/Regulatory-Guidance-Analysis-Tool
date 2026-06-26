@@ -1,3 +1,4 @@
+[English](README_EN.md) | [中文](README.md)
 # gugu-gaga
 
 > 制药法规 & 指南结构化分析工具 | Regulatory & Guidance Analysis Tool
