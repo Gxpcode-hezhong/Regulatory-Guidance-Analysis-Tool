@@ -1,3 +1,4 @@
+[English](README_EN.md) | [中文](README.md)
 # gugu-gaga · Regulatory Guidance Analysis Tool
 
 [![Version](https://img.shields.io/badge/version-2.5.2-blue)](SKILL.md)
